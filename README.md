@@ -33,7 +33,7 @@ The repository primarily contains the analysis notebooks, code, visualizations, 
 
 ## My Contribution
 
-**Songtao Zhang's individual contributions are represented in the notebooks and analysis files included in this repository.**
+**My contributions are represented in the notebooks and analysis files included in this repository.**
 
 The work contributed to the project includes data processing, exploratory data analysis, statistical analysis, visualization, interpretation of results, and preparation of project documentation.
 
