@@ -39,6 +39,23 @@ The work contributed to the project includes data processing, exploratory data a
 
 Because this was a collaborative team project, the repository distinguishes individual analytical work from the overall findings produced by the full group.
 
+## Key Findings
+
+* **Crash frequency and crash severity followed different time patterns.** Total crashes peaked around the afternoon commuting period, particularly near 5:00 p.m., with a smaller morning peak around 7:00–8:00 a.m. However, crashes occurring late at night and in the early morning were more likely to result in a fatal or serious injury.
+
+* **Vulnerable road users faced substantially greater injury severity.** The logistic regression analysis found that crashes involving pedestrians or bicyclists had approximately **11.23 times the odds** of resulting in a fatal or serious injury compared with crashes involving non-vulnerable road users, after accounting for roadway jurisdiction.
+
+* **Jurisdiction was statistically associated with crash severity, but the practical effect was generally small.** Differences were observed across City/Village, County, State, Town, Thruway, and State Park roads. However, most differences in fatal and serious injury rates were modest, and some jurisdiction groups contained relatively few observations.
+
+* **High-risk roadway corridors were identified using fatal and serious injuries per kilometer.** The corridor analysis distinguished intersections, near-intersection areas, and non-intersection road segments. Shorter corridors generally had higher median FSI counts, with the relationship between corridor length and severity changing at approximately **0.95 kilometers**.
+
+* **Apparent crash factors differed across road-user groups.** Inattention, Failure to Yield, and Unsafe Speed were among the most common recorded factors. Inattention was more strongly represented in pedestrian crashes, while Failure to Yield was more strongly associated with bicyclist crashes.
+
+* **Most road-improvement projects did not show statistically significant changes in fatal and serious injuries.** The East Avenue road diet was associated with a statistically significant reduction in total crashes, but not in FSI outcomes. The Elmwood Avenue road diet, Lake Avenue resurfacing project, and Dewey–Driving Park intersection realignment did not show statistically significant changes under the simple before-and-after analysis.
+
+* **The findings should be interpreted as preliminary associations rather than causal effects.** The analysis did not include traffic-volume data, and some project comparisons may have been affected by changes in travel behavior during the COVID-19 pandemic.
+
+
 ## Group 1 Memebers
 
 * Fernando Lopez
